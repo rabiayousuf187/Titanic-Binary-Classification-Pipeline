@@ -34,7 +34,6 @@ Instead of relying on a single Decision Tree (which is prone to high variance an
 ```text
 ├── data/
 │   └── titanic.csv               # Raw dataset
-├── src/
-│   └── train_pipeline.py         # End-to-end data loading, encoding, training & evaluation
+|── Titanic-Binary-Classification-Pipeline.py         # End-to-end data loading, encoding, training & evaluation
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Technical documentation
